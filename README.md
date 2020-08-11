@@ -1,4 +1,4 @@
-# Imputation-Methods-and-Predict-survival-of-passengers-on-Titanic-Dataset
+# Imputation-Methods-and-Predict-survival-on-Titanic-Dataset
 
 The Kaggle Link : https://www.kaggle.com/c/titanic-survival/data
 
